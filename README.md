@@ -17,5 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathuvigodage&show_icons=true&locale=en&layout=compact&bg_color=303030" alt="chathuvigodage" style="color: #ffffff;" /></p>
 
-<p style="background-color: #303030;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathuvigodage" alt="chathuvigodage" style="color: #ffffff;" /></p>
+<div style="background-color: #303030; color: white;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathuvigodage" alt="chathuvigodage" />
+</div>
 
