@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at University of Westminster**
+- 🔭 I’m currently studying at University of Westminster (IIT)
 
 - 🌱 I’m currently learning **React JS, Node JS, MongoDB**
 
